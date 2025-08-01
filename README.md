@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **Python django and React JS**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-gamma-nine-79.vercel.app/](https://my-portfolio-gamma-nine-79.vercel.app/)
+- 👨‍💻 My portfolio website [Portfolio](https://my-portfolio-gamma-nine-79.vercel.app/)
 
-- 📫 How to reach me **adilkmparappur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
