@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Small Changes That Ended My Endless Scrolling](https://my-portfolio-gamma-nine-79.vercel.app/blog/69180db53a5d75b6af3db503)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adil-km&show_icons=true&locale=en&layout=compact" alt="Adil-km" /></p>
