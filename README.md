@@ -8,9 +8,9 @@
 
 - 🌱 I'm currently learning **Python Django and React JS**
 
-- 👨‍💻 All of my projects are available at **[https://my-portfolio-gamma-nine-79.vercel.app/](https://my-portfolio-gamma-nine-79.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://my-portfolio-gamma-nine-79.vercel.app/)**
 
-- 📝 I regularly write articles on **[https://my-portfolio-gamma-nine-79.vercel.app/blog](https://my-portfolio-gamma-nine-79.vercel.app/blog)**
+- 📝 I occasionally write articles on **[Blog section](https://my-portfolio-gamma-nine-79.vercel.app/blog)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,9 +32,13 @@
 - [The Small Changes That Ended My Endless Scrolling](https://madebyadil.dev/blog/69180db53a5d75b6af3db503)
 <!-- BLOG-POST-LIST:END -->
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adil-km&show_icons=true&locale=en&layout=compact" alt="Adil-km" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adil-km&show_icons=true&locale=en" alt="Adil-km" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-km&" alt="Adil-km" /></p>
 
